@@ -1,0 +1,24 @@
+{
+    "list": [
+      {
+        "certificateNo": "34343495J2",
+        "possessor": "王大亮",
+        "couponFrequency": "按月",
+        "couponMoney": "HKD2340.00",
+        "bearingTime": "01/06/2018 - 30/06/2018",
+        "principal": "HKD500,000",
+        "reject": "",
+        "state": ""
+      },
+      {
+        "certificateNo": "34343495J3",
+        "possessor": "王大亮",
+        "couponFrequency": "按月",
+        "couponMoney": "HKD1420.00",
+        "bearingTime": "01/06/2018 - 30/06/2018",
+        "principal": "HKD200,000",
+        "reject": "",
+        "state": ""
+      }
+    ]
+  }

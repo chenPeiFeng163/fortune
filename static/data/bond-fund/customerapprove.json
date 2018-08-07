@@ -1,0 +1,69 @@
+{
+    "list": [
+      {
+        "name": "刘书涵",
+        "style": "单名",
+        "source": "新购",
+        "product": "年年稳IV",
+        "deadline": "5年",
+        "payInterest": "年付",
+        "money": "HK$200",
+        "signDate": "2018-12-31",
+        "valueDate": "2018-1-31",
+        "dueDate": "2018-1-31",
+        "state": "2"
+      },
+      {
+        "name": "陈永浩",
+        "style": "联名",
+        "source": "新购",
+        "product": "年年稳IV-3年",
+        "deadline": "3年",
+        "payInterest": "季付",
+        "money": "RMB50",
+        "signDate": "2018-12-31",
+        "valueDate": "2018-1-31",
+        "dueDate": "2018-1-31",
+        "state": "0"
+      },
+      {
+        "name": "胡宇强",
+        "style": "机构",
+        "source": "新购",
+        "product": "年年稳IV-1年",
+        "deadline": "6月",
+        "payInterest": "全付",
+        "money": "US$30",
+        "signDate": "2018-12-31",
+        "valueDate": "2018-1-31",
+        "dueDate": "2018-1-31",
+        "state": "1"
+      },
+      {
+        "name": "唐诗琪",
+        "style": "单名",
+        "source": "续期",
+        "product": "年年稳IV",
+        "deadline": "5年",
+        "payInterest": "年付",
+        "money": "HK$200",
+        "signDate": "2018-12-31",
+        "valueDate": "2018-1-31",
+        "dueDate": "2018-1-31",
+        "state": "1"
+      },
+      {
+        "name": "罗若琳",
+        "style": "单名",
+        "source": "加码",
+        "product": "年年稳IV-3年",
+        "deadline": "3年",
+        "payInterest": "季付",
+        "money": "RMB50",
+        "signDate": "2018-12-31",
+        "valueDate": "2018-1-31",
+        "dueDate": "2018-1-31",
+        "state": "1"
+      }
+    ]
+  }

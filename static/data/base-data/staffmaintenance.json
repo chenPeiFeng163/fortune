@@ -1,0 +1,28 @@
+{
+    "list": [
+      {
+        "chineseName": "张青坤",
+        "englishName": "kevin",
+        "empNo": "18061001",
+        "sex": "男",
+        "identity": "许氏兄弟金融集团[招商局大厦1店][店长]",
+        "state": "0"
+      },
+      {
+        "chineseName": "张自松",
+        "englishName": "mike",
+        "empNo": "18061421",
+        "sex": "男",
+        "identity": "立桥证券有限公司[企业客户部][业务助理]",
+        "state": "1"
+      },
+      {
+        "chineseName": "赵杰科",
+        "englishName": "jenny",
+        "empNo": "18062225",
+        "sex": "女",
+        "identity": "许氏兄弟金融集团[上环线][业务经理]",
+        "state": "2"
+      }
+    ]
+  }
